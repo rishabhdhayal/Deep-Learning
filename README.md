@@ -8,3 +8,6 @@ A one-layer neural network model which takes Images as input and predicts whethe
 
 ## 2. Project - One Hidden Layer Neural Network
 ![Dribbble shot - 2](https://github.com/rishabhdhayal/Deep-Learning/assets/76101214/8eb411ef-cb04-4d6a-ab45-ee4f6cba751f)
+
+## 3. Project - N Hidden Layer Neural Network
+![Dribbble shot - 5](https://github.com/rishabhdhayal/Deep-Learning/assets/76101214/27babf29-c758-42b5-ac55-7cb1e4155830)
